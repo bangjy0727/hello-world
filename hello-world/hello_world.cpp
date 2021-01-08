@@ -10,6 +10,6 @@ int main()
 {
     Hello hello;
     Hello hi("Hi, world.");
-    cout << hello << hi << endl;
+    cout << hello << endl << hi << endl;
     return 0;
 }
