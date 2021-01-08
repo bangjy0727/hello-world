@@ -1,0 +1,2 @@
+C:\Git\hello-world_main\hello-world\Debug\hello-world.exe
+C:\Git\hello-world_main\hello-world\Debug\hello-world.pdb
