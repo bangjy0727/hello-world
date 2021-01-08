@@ -11,6 +11,7 @@ private:
 	string hello;
 public:
 	Hello() { hello = "Hello, world."; };
+	Hello(string str) { hello = str; };
 	friend ostream& operator<<(ostream& os, const Hello& p);
 };
 
