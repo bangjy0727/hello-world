@@ -9,6 +9,7 @@ ostream& operator<<(ostream& os, const Hello& p)
 int main()
 {
     Hello hello;
-    cout << hello << endl;
+    Hello hi("Hi, world.");
+    cout << hello << hi << endl;
     return 0;
 }
